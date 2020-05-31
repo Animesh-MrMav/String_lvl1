@@ -40,38 +40,7 @@ n	2
 25.	WAP to accept name, marks of five students and create merit list based on marks.
 
 
-PATTERN
 
-1.	WAP to print the word “JAVA” in following pattern-
-J
-JA
-JAV
-JAVA
-2.	WAP to print the word “iLoVeJava” in following pattern
-i
-iLi
-iLoLi
-iLoVoLi
-iLoVeVoLi
-iLoVeJeVoLi
-iLoVeJaJeVoLi
-iLoVeJavaJeVoLi
-iLoVeJavavaJeVoLi
-3.	WAP to print the Following Pattern
-C O M P U T E R
-O M P U T E R
-M P U T E R
-P U T E R
-T E R
-E R
-R
-
-4.	WAP to display following pattern 
-J A V A
-A V A j
-V A j a
-A j a v
-J a v a
 
 					
 
